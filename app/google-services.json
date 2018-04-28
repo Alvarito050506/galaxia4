@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "28288952980",
+    "firebase_url": "https://galaxia4-app.firebaseio.com",
+    "project_id": "galaxia4-app",
+    "storage_bucket": "galaxia4-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28288952980:android:6341369a872d70c0",
+        "android_client_info": {
+          "package_name": "com.galaxia4.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28288952980-9v29vfut2oaor09k38pt4oqch0c19da9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galaxia4.app",
+            "certificate_hash": "977ebc301cf17d6c327caa1db15ca0fa14c42b97"
+          }
+        },
+        {
+          "client_id": "28288952980-n0c3v924r1l7p908g04evgtkg39jil5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ByN4zdXw9oC8z7yYuYw4lfjeln88BrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28288952980-n0c3v924r1l7p908g04evgtkg39jil5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
